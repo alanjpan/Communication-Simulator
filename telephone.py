@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 30 14:28:35 2018
 
-@author: Alan Jerry Pan, CPA, CSc
+@author: Alan Jerry Pan, CPA, CSc student
 @affiliation: Shanghai Jiaotong University
 
 Program used to simulate and describe communication.
